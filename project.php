@@ -1,9 +1,6 @@
 <?php
 /**
- * Created by PhpStorm.
  * User: malakabuhammad
- * Date: 1/20/18
- * Time: 7:59 PM
  */
 
 /**
